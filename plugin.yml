@@ -1,0 +1,11 @@
+name: ScaleManager
+author: AidenKR
+version: 5.0.0
+api: 5.0.0
+main: AidenKR\ScaleManager\ScaleManager
+
+permissions:
+ scale.command:
+  default: op
+ scale.coin.command:
+  default: op
